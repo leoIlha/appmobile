@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863401339694",
+    "project_id": "testespot-8519d",
+    "storage_bucket": "testespot-8519d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863401339694:android:16b2720ca434e708cd28bf",
+        "android_client_info": {
+          "package_name": "com.example.ultimotrabalencar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863401339694-9tbab911gtdusf19gk102mtomduil34f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDbZ68LLBhIuj-wYcqr_6Atsry4q_b7Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863401339694-9tbab911gtdusf19gk102mtomduil34f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
